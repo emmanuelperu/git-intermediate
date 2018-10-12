@@ -1,2 +1,1 @@
-# git-advanced
-Projet à forker et à utiliser pour le CodeLabs git-CodeLabs-advanced
+Je suis sur la branche où je vais cherry-pick un commit !!!
