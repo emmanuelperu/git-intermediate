@@ -1,1 +1,1 @@
-Ceci est le README de la develop !
+Ceci est le README de la branche conflict !
